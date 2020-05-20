@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SteliosQuotes</string>
+    <string name="prefFilename" />
+    <string name="prefFilenameInvalid">-- No file --</string>
+</resources>
